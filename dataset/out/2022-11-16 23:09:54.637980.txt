@@ -1,0 +1,1 @@
+file:///home/natashks/Documents/EYAZIIS/ilya/language-detect-master/dataset/test_french.html -- French
